@@ -1,0 +1,22 @@
+#w{
+    color: aqua;
+}
+nav{
+    color:yellow;
+}
+a{
+    color:orange;
+}
+p.common{
+    color: brown;
+}
+p,a{
+    color:red;
+}
+.container{
+    width:200px;
+    height:100px;
+    margin:10px;
+    border:2px solid black;
+    padding:20px;
+}
